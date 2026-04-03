@@ -1,27 +1,78 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+[RUS]
 
-# Calculator Layout Boss Challenge
+[![Swift](https://img.shields.io/badge/Swift-5.0-orange)](https://swift.org) [![iOS](https://img.shields.io/badge/iOS-13.0+-blue)](https://apple.com) [![Xcode](https://img.shields.io/badge/Xcode-15.0+-brightgreen)](https://developer.apple.com/xcode/)
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+# Calculator Layout
 
-## Portrait
+Приложение-калькулятор. Отработка Auto Layout и адаптивного дизайна.
 
-![Portrait](Documentation/Portrait.png)
+## Функционал
 
-## Landscape
-![Landscape](Documentation/Landscape.png)
+- Цифровые кнопки (0-9)
+- Базовые операции (+, -, ×, ÷)
+- Кнопка очистки (AC)
+- Кнопка смены знака (+/-)
+- Кнопка процентов (%)
+- Отображение результата на дисплее
+- Адаптивная верстка под все экраны iPhone
+- Auto Layout constraints для всех элементов
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
+## Технологии
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
+- Swift
+- UIKit
+- Auto Layout
+- Interface Builder
+- Stack Views
 
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
+## Курс
 
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
+The App Brewery - iOS Development Bootcamp
 
-If you get stuck, check out the solution video in the next lesson.
+## Авторские права
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Оригинальный дизайн и материалы курса принадлежат The App Brewery (Angela Yu).  
+Код реализован Ариной Агафоновой в учебных целях.
 
-![End Banner](Documentation/readme-end-banner.png)
+## Скриншоты
 
+<img src="https://github.com/user-attachments/assets/772dd538-b28a-4cca-a72e-71d6b0fa553c" alt="Calculator screenshot" width="50%" />
+---
+
+[ENG]
+
+# Calculator Layout
+
+Calculator app. Practicing Auto Layout and responsive design.
+
+## Features
+
+- Number buttons (0-9)
+- Basic operations (+, -, ×, ÷)
+- Clear button (AC)
+- Sign change button (+/-)
+- Percentage button (%)
+- Result display
+- Adaptive layout for all iPhone screens
+- Auto Layout constraints for all elements
+
+## Technologies
+
+- Swift
+- UIKit
+- Auto Layout
+- Interface Builder
+- Stack Views
+
+## Course
+
+The App Brewery - iOS Development Bootcamp
+
+## Copyright
+
+Original design and course materials belong to The App Brewery (Angela Yu).  
+Code implemented by Arina Agafonova for educational purposes.
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/772dd538-b28a-4cca-a72e-71d6b0fa553c" alt="Calculator screenshot" width="50%" />
