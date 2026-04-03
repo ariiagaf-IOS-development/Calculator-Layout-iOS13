@@ -37,6 +37,7 @@ The App Brewery - iOS Development Bootcamp
 ## Скриншоты
 
 <img src="https://github.com/user-attachments/assets/772dd538-b28a-4cca-a72e-71d6b0fa553c" alt="Calculator screenshot" width="50%" />
+
 ---
 
 [ENG]
